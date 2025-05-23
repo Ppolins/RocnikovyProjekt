@@ -1,0 +1,5 @@
+vzorové zadanie pre študentov
+Napíšte SQL dotaz, ktorý vráti mená všetkých študentov zapísaných na kurz „matematika“ (math)
+ alebo na akýkoľvek jej podkurz. Kurzy môžu byť hierarchicky usporiadané pomocou stĺpca parent_id, 
+ kde napr. „algebra“ a „geometria“ sú podkurzy „matematiky“. Výsledok má obsahovať mená študentov, 
+ ktorí sú zapísaní na hlavný kurz (matematiku) alebo na niektorý z jej priamych či nepriamych podkurzov.
